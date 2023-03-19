@@ -1,2 +1,2 @@
 ![gif](UnitConvertor.gif)
-![My Image](UnitConvertor.png)
+![My Image](UnitConvertor.jpg)
